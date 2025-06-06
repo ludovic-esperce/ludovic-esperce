@@ -1,6 +1,6 @@
 # Qui suis-je ?
 
-Formateur itinérant à l'Afpa intervenant sur les formations en développement informatique.
+Formateur itinérant à l'[Afpa](https://github.com/afpa-learning) intervenant sur les formations en développement informatique.
 
  ## Langages/technologies d'intérêt
 
