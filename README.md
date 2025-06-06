@@ -10,7 +10,7 @@ Formateur itinérant à l'Afpa intervenant sur les formations en développement 
   - Rust
   - Typescript
 
-🖼️ Développement d'interfaces :
+🖼️ Développement d'interfaces graphiques :
   - JavaFX
   - Qt
   - React
