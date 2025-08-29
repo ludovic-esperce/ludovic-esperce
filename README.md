@@ -12,11 +12,11 @@ Formateur itinérant à l'[Afpa](https://github.com/afpa-learning) intervenant s
   - PHP
 
 🖼️ Développement d'interfaces graphiques :
-  - JavaFX
   - Qt
   - React
   - SolidJs
   - Leptos
+  - JavaFX
 
 📦 Virtualisation/conteneurisation :
   - Docker/Podman
